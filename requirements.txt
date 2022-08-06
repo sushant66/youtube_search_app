@@ -1,0 +1,7 @@
+Flask==2.1.2
+Flask-SQLAlchemy==2.5.1
+APScheduler==3.9.1
+google-api-python-client==2.55.0
+flask-msearch==0.2.9.2
+whoosh==2.6.0
+blinker==1.3
